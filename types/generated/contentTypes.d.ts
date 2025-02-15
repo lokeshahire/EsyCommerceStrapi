@@ -936,7 +936,7 @@ export interface ApiHomeStunHomeStun extends Struct.CollectionTypeSchema {
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
-    HomeStunHead: Schema.Attribute.String;
+    HomeStunHead: Schema.Attribute.Text;
     HomeStunHeadColor: Schema.Attribute.String;
     HomeStunHeadFontSize: Schema.Attribute.String;
     HomeStunHeadFontSizeMob: Schema.Attribute.String;
@@ -945,7 +945,7 @@ export interface ApiHomeStunHomeStun extends Struct.CollectionTypeSchema {
     HomeStunMargin: Schema.Attribute.String;
     HomeStunMaxWidth: Schema.Attribute.String;
     HomeStunPadding: Schema.Attribute.String;
-    HomeStunPara: Schema.Attribute.String;
+    HomeStunPara: Schema.Attribute.Text;
     HomeStunParaColor: Schema.Attribute.String;
     HomeStunParaFontSize: Schema.Attribute.String;
     HomeStunParaLineH: Schema.Attribute.String;
