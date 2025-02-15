@@ -1,0 +1,205 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_shopifies",
+  "info": {
+    "singularName": "home-shopify",
+    "pluralName": "home-shopifies",
+    "displayName": "HomeShopify",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "HomeShopifytitle": {
+      "type": "string"
+    },
+    "HomeShopifytitleColor": {
+      "type": "string"
+    },
+    "HomeShopifyFontSize": {
+      "type": "string"
+    },
+    "HomeShopifyPtag": {
+      "type": "string"
+    },
+    "HomeShopifyPtagColor": {
+      "type": "string"
+    },
+    "HomeShopifyPtagFontSize": {
+      "type": "string"
+    },
+    "HomeShopifyLi1": {
+      "type": "string"
+    },
+    "HomeShopifyLi2": {
+      "type": "string"
+    },
+    "HomeShopifyLi3": {
+      "type": "string"
+    },
+    "HomeShopifyBtnAudit": {
+      "type": "string"
+    },
+    "HomeShopifyBtnAuditColor": {
+      "type": "string"
+    },
+    "HomeShopifyBtnAuditBgColor": {
+      "type": "string"
+    },
+    "HomeShopifyBtnAuditBorderRadius": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalk": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkColor": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkBgColor": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkBorderRadius": {
+      "type": "string"
+    },
+    "HomeShopifyRightImg": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "HomeShopifyMaxWidth": {
+      "type": "string"
+    },
+    "HomeShopifyPaddingLeft": {
+      "type": "string"
+    },
+    "HomeShopifyLeftMaxWidth": {
+      "type": "string"
+    },
+    "HomeShopifyLeftMarginTop": {
+      "type": "string"
+    },
+    "HomeShopifytitleFontWeight": {
+      "type": "string"
+    },
+    "HomeShopifytitleLineHeight": {
+      "type": "string"
+    },
+    "HomeShopifyPtagMarginTop": {
+      "type": "string"
+    },
+    "HomeShopifyPtagFontWeight": {
+      "type": "string"
+    },
+    "HomeShopifyUiListStyle": {
+      "type": "string"
+    },
+    "HomeShopifyUiPadding": {
+      "type": "string"
+    },
+    "HomeShopifyUiMarginTop": {
+      "type": "string"
+    },
+    "HomeShopifyLiFontSize": {
+      "type": "string"
+    },
+    "HomeShopifyLiFontWeight": {
+      "type": "string"
+    },
+    "HomeShopifyLiMarginBottom": {
+      "type": "string"
+    },
+    "HomeShopifyBtnDivMarginTop": {
+      "type": "string"
+    },
+    "HomeShopifyBtnDivGap": {
+      "type": "string"
+    },
+    "HomeShopifyBtnAuditPadding": {
+      "type": "string"
+    },
+    "HomeShopifyBtnAuditFontSize": {
+      "type": "string"
+    },
+    "HomeShopifyBtnAuditFontWeight": {
+      "type": "string"
+    },
+    "HomeShopifyBtnAuditCursor": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkBorder": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkPaddingRight": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkPadding": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkGap": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkSpanBgColor": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkSpanColor": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkSpanWidth": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkSpanHeight": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkSpanBorderRadius": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkSpanFontSize": {
+      "type": "string"
+    },
+    "imageUrlMaxWidth": {
+      "type": "string"
+    },
+    "imageUrlBorderRadius": {
+      "type": "string"
+    },
+    "HomeShopifyPaddingLeftMob": {
+      "type": "string"
+    },
+    "HomeShopifyRightImgMob": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "HomeShopifyBtnTalkGapMob": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkWidthMob": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkWidth": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkGapMob1": {
+      "type": "string"
+    },
+    "HomeShopifyBtnTalkWidth1": {
+      "type": "string"
+    },
+    "HomeShopifyFontSizeMob": {
+      "type": "string"
+    }
+  }
+}

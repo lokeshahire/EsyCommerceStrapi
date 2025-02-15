@@ -1,0 +1,126 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_enhances",
+  "info": {
+    "singularName": "home-enhance",
+    "pluralName": "home-enhances",
+    "displayName": "HomeEnhance",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "HomeEnhanceHead": {
+      "type": "string"
+    },
+    "HomeEnhanceCard": {
+      "displayName": "HomeEnhanceCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "card1.home-enhance-card"
+    },
+    "HomeEnhanceHeadPadding": {
+      "type": "string"
+    },
+    "HomeEnhanceHeadMarginTop": {
+      "type": "string"
+    },
+    "HomeEnhanceHeadFontSize": {
+      "type": "string"
+    },
+    "HomeEnhanceHeadFontWeight": {
+      "type": "string"
+    },
+    "HomeEnhanceHeadColor": {
+      "type": "string"
+    },
+    "HomeEnhanceHeadWidth": {
+      "type": "string"
+    },
+    "HomeEnhanceHeadMarginBtm": {
+      "type": "string"
+    },
+    "HomeEnhanceCardGap": {
+      "type": "string"
+    },
+    "HomeEnhanceCardFlex": {
+      "type": "string"
+    },
+    "HomeEnhanceCardMinWidth": {
+      "type": "string"
+    },
+    "HomeEnhanceCardMaxWidth": {
+      "type": "string"
+    },
+    "HomeEnhanceCardBg": {
+      "type": "string"
+    },
+    "HomeEnhanceCardRadius": {
+      "type": "string"
+    },
+    "HomeEnhanceCardPadding": {
+      "type": "string"
+    },
+    "HomeEnhanceCardTras": {
+      "type": "string"
+    },
+    "HomeEnhanceCardMinHeight": {
+      "type": "string"
+    },
+    "HomeEnhanceCardCursor": {
+      "type": "string"
+    },
+    "HomeEnhanceCardBorder": {
+      "type": "string"
+    },
+    "HomeEnhanceCardHeight": {
+      "type": "string"
+    },
+    "HomeEnhanceCardImgURLwidth": {
+      "type": "string"
+    },
+    "HomeEnhanceCardImgURLHeight": {
+      "type": "string"
+    },
+    "HomeEnhanceCardImgURLMarginBtm": {
+      "type": "string"
+    },
+    "HomeEnhanceCardHeadFontSize": {
+      "type": "string"
+    },
+    "HomeEnhanceCardHeadWeight": {
+      "type": "string"
+    },
+    "HomeEnhanceCardHeadColor": {
+      "type": "string"
+    },
+    "HomeEnhanceCardHeadWidth": {
+      "type": "string"
+    },
+    "HomeEnhanceCardLiStyle": {
+      "type": "string"
+    },
+    "HomeEnhanceCardLiMarginTop": {
+      "type": "string"
+    },
+    "HomeEnhanceCardLiFontSize": {
+      "type": "string"
+    },
+    "HomeEnhanceCardLiColor": {
+      "type": "string"
+    },
+    "HomeEnhanceCardLiGap": {
+      "type": "string"
+    },
+    "HomeEnhanceCardLiMarginBtm": {
+      "type": "string"
+    },
+    "HomeEnhanceHead2MarginTop": {
+      "type": "string"
+    },
+    "HomeEnhanceHead2": {
+      "type": "string"
+    }
+  }
+}

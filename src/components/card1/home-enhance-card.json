@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_card1_home_enhance_cards",
+  "info": {
+    "displayName": "HomeEnhanceCard",
+    "icon": "book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "HomeEnhanceCardImg": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "HomeEnhanceCardHead": {
+      "type": "string"
+    },
+    "HomeEnhanceCardLi1": {
+      "type": "string"
+    },
+    "HomeEnhanceCardLi2": {
+      "type": "string"
+    },
+    "HomeEnhanceCardLi3": {
+      "type": "string"
+    },
+    "HomeEnhanceCardLi4": {
+      "type": "string"
+    },
+    "HomeEnhanceCardImgURL": {
+      "type": "string"
+    }
+  }
+}

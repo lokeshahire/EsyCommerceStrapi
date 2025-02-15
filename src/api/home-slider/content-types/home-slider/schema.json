@@ -1,0 +1,119 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_sliders",
+  "info": {
+    "singularName": "home-slider",
+    "pluralName": "home-sliders",
+    "displayName": "HomeSlider",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "HomeSliderPrevBtn": {
+      "type": "string"
+    },
+    "HomeSliderNextBtn": {
+      "type": "string"
+    },
+    "HomeSliderPrevBtnColor": {
+      "type": "string"
+    },
+    "HomeSliderPrevBtnBgColor": {
+      "type": "string"
+    },
+    "HomeSliderNextBtnColor": {
+      "type": "string"
+    },
+    "HomeSliderNextBtnBgColor": {
+      "type": "string"
+    },
+    "HomeSliderImgs": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "HomeSliderMaxWidth": {
+      "type": "string"
+    },
+    "HomeSliderPrevLeft": {
+      "type": "string"
+    },
+    "HomeSliderPrevBtm": {
+      "type": "string"
+    },
+    "HomeSliderPrevTransform": {
+      "type": "string"
+    },
+    "HomeSliderPrevBgColor": {
+      "type": "string"
+    },
+    "HomeSliderPrevColor": {
+      "type": "string"
+    },
+    "HomeSliderPrevBorderRadius": {
+      "type": "string"
+    },
+    "HomeSliderPrevWidth": {
+      "type": "string"
+    },
+    "HomeSliderPrevHeight": {
+      "type": "string"
+    },
+    "HomeSliderPrevFontSize": {
+      "type": "string"
+    },
+    "HomeSliderPrevCursor": {
+      "type": "string"
+    },
+    "HomeSliderPrevShadow": {
+      "type": "string"
+    },
+    "HomeSliderPrevZindex": {
+      "type": "string"
+    },
+    "HomeSliderImgsPadding": {
+      "type": "string"
+    },
+    "HomeSliderImgsTrans": {
+      "type": "string"
+    },
+    "HomeSliderImgsInnerWidth": {
+      "type": "string"
+    },
+    "HomeSliderImgsInnerHeight": {
+      "type": "string"
+    },
+    "HomeSliderImgsInnerBorderRadius": {
+      "type": "string"
+    },
+    "HomeSliderImgsInnerShadow": {
+      "type": "string"
+    },
+    "HomeSliderImgsInnerMarLeft": {
+      "type": "string"
+    },
+    "HomeSliderPrevLeftMob": {
+      "type": "string"
+    },
+    "HomeSliderPrevBtmMob": {
+      "type": "string"
+    },
+    "HomeSliderImgsWidthMob": {
+      "type": "string"
+    },
+    "HomeSliderImgsWidth": {
+      "type": "string"
+    },
+    "HomeSliderImgsPadding1": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "kind": "collectionType",
+  "collectionName": "case_cards",
+  "info": {
+    "singularName": "case-card",
+    "pluralName": "case-cards",
+    "displayName": "CaseCard",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "CaseCardName": {
+      "type": "string"
+    },
+    "CaseCardImg": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "CaseCardDes": {
+      "type": "string"
+    },
+    "CaseCardSpan": {
+      "type": "string"
+    },
+    "CaseCardNo1": {
+      "type": "string"
+    },
+    "CaseCardNo2": {
+      "type": "string"
+    },
+    "CaseCardNo3": {
+      "type": "string"
+    },
+    "CaseCardRead": {
+      "type": "string"
+    },
+    "CaseCardReadUrl": {
+      "type": "string"
+    },
+    "CaseCardBgColor": {
+      "type": "string"
+    },
+    "CaseCardBorderRadius": {
+      "type": "string"
+    },
+    "CaseCardPadding": {
+      "type": "string"
+    },
+    "CaseCardBorder": {
+      "type": "string"
+    },
+    "CaseCardHeight": {
+      "type": "string"
+    },
+    "CaseCardNameTop": {
+      "type": "string"
+    },
+    "CaseCardNameLeft": {
+      "type": "string"
+    },
+    "CaseCardNameTransform": {
+      "type": "string"
+    },
+    "CaseCardNameBgColor": {
+      "type": "string"
+    },
+    "CaseCardNameColor": {
+      "type": "string"
+    },
+    "CaseCardNameFontSize": {
+      "type": "string"
+    },
+    "CaseCardNamePadding": {
+      "type": "string"
+    },
+    "CaseCardNameBorderRadius": {
+      "type": "string"
+    },
+    "CaseCardNameZIndex": {
+      "type": "string"
+    },
+    "imageUrlHeight": {
+      "type": "string"
+    },
+    "CaseCardDesFontSize": {
+      "type": "string"
+    },
+    "CaseCardDesColor": {
+      "type": "string"
+    },
+    "CaseCardDesMarginTop": {
+      "type": "string"
+    },
+    "CaseCardNoMargin": {
+      "type": "string"
+    },
+    "CaseCardNoBgColor": {
+      "type": "string"
+    },
+    "CaseCardNoWidth": {
+      "type": "string"
+    },
+    "CaseCardNoHeight": {
+      "type": "string"
+    },
+    "CaseCardReadColor": {
+      "type": "string"
+    },
+    "CaseCardReadBorderBottom": {
+      "type": "string"
+    },
+    "CaseCardReadWidth": {
+      "type": "string"
+    },
+    "CaseCardReadMargin": {
+      "type": "string"
+    },
+    "CaseCardReadPaddingTop": {
+      "type": "string"
+    },
+    "CaseCardMarginTop": {
+      "type": "string"
+    },
+    "CaseCardNameWidth": {
+      "type": "string"
+    },
+    "CaseCardHeightMob": {
+      "type": "string"
+    },
+    "CaseCardNameWidthMob": {
+      "type": "string"
+    }
+  }
+}

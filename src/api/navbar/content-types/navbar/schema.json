@@ -1,0 +1,237 @@
+{
+  "kind": "collectionType",
+  "collectionName": "navbars",
+  "info": {
+    "singularName": "navbar",
+    "pluralName": "navbars",
+    "displayName": "Navbar",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "logoText": {
+      "type": "string"
+    },
+    "NavbuttonText": {
+      "type": "string"
+    },
+    "NavbuttonLink": {
+      "type": "string"
+    },
+    "NavbuttonbgColor": {
+      "type": "string"
+    },
+    "MidNavbar1": {
+      "type": "string"
+    },
+    "MidNavbar2": {
+      "type": "string"
+    },
+    "MidNavbar3": {
+      "type": "string"
+    },
+    "NavbackgroundColor": {
+      "type": "string"
+    },
+    "NavfontFamily": {
+      "type": "string"
+    },
+    "NavPadding": {
+      "type": "string"
+    },
+    "logoFontsize": {
+      "type": "string"
+    },
+    "logoColor": {
+      "type": "string"
+    },
+    "logofontWeight": {
+      "type": "string"
+    },
+    "MidNavbarBorderRadius": {
+      "type": "string"
+    },
+    "MidNavbarGap": {
+      "type": "string"
+    },
+    "MidNavbarBorder": {
+      "type": "string"
+    },
+    "MidNavbarPadding": {
+      "type": "string"
+    },
+    "MidNavbarColor": {
+      "type": "string"
+    },
+    "MidNavbarInnerPadding": {
+      "type": "string"
+    },
+    "MidNavbarTransition": {
+      "type": "string"
+    },
+    "NavbuttonGap": {
+      "type": "string"
+    },
+    "NavbuttonFontsize": {
+      "type": "string"
+    },
+    "NavbuttonPadding": {
+      "type": "string"
+    },
+    "NavbuttonColor": {
+      "type": "string"
+    },
+    "NavbuttonBorderRadius": {
+      "type": "string"
+    },
+    "NavbuttonTextColor": {
+      "type": "string"
+    },
+    "NavbuttonTextbgColor": {
+      "type": "string"
+    },
+    "NavbuttonTextWidth": {
+      "type": "string"
+    },
+    "NavbuttonTextHeight": {
+      "type": "string"
+    },
+    "NavbuttonTextBorderRadius": {
+      "type": "string"
+    },
+    "NavbuttonTextFontSize": {
+      "type": "string"
+    },
+    "NavHeight": {
+      "type": "string"
+    },
+    "Navbuttonheight": {
+      "type": "string"
+    },
+    "Navbuttonwidth": {
+      "type": "string"
+    },
+    "logoLetterSpacing": {
+      "type": "string"
+    },
+    "NavbuttonTextPadding": {
+      "type": "string"
+    },
+    "NavbuttonTextPaddingLeft": {
+      "type": "string"
+    },
+    "NavbuttonTextBorder": {
+      "type": "string"
+    },
+    "NavbuttonTextBorderRad": {
+      "type": "string"
+    },
+    "NavbuttonTextFontSize1": {
+      "type": "string"
+    },
+    "NavbuttonTextWeight": {
+      "type": "string"
+    },
+    "NavbuttonTextCursor": {
+      "type": "string"
+    },
+    "NavbuttonTextBgColor": {
+      "type": "string"
+    },
+    "NavbuttonTextColor1": {
+      "type": "string"
+    },
+    "NavbuttonTextGap": {
+      "type": "string"
+    },
+    "NavbuttonTextSpanBgColor": {
+      "type": "string"
+    },
+    "NavbuttonTextSpanColor": {
+      "type": "string"
+    },
+    "NavbuttonTextSpanWidth": {
+      "type": "string"
+    },
+    "NavbuttonTextSpanHeight": {
+      "type": "string"
+    },
+    "NavbuttonTextSpanBorderRad": {
+      "type": "string"
+    },
+    "NavbuttonTextSpanFontSize": {
+      "type": "string"
+    },
+    "toggleMenuBg": {
+      "type": "string"
+    },
+    "toggleMenuBorder": {
+      "type": "string"
+    },
+    "toggleMenuCursor": {
+      "type": "string"
+    },
+    "toggleMenuPadding": {
+      "type": "string"
+    },
+    "toggleMenuZindex": {
+      "type": "string"
+    },
+    "hamburgerGap": {
+      "type": "string"
+    },
+    "hamburgerWidth": {
+      "type": "string"
+    },
+    "hamburgerHeight": {
+      "type": "string"
+    },
+    "hamburgerBgColor": {
+      "type": "string"
+    },
+    "hamburgerTrans": {
+      "type": "string"
+    },
+    "isMenuOpenPosition": {
+      "type": "string"
+    },
+    "isMenuOpenLeft": {
+      "type": "string"
+    },
+    "isMenuOpenWidth": {
+      "type": "string"
+    },
+    "isMenuOpenBg": {
+      "type": "string"
+    },
+    "isMenuOpenShadow": {
+      "type": "string"
+    },
+    "isMenuOpenPadding": {
+      "type": "string"
+    },
+    "isMenuOpenTextAlign": {
+      "type": "string"
+    },
+    "isMenuOpenTran": {
+      "type": "string"
+    },
+    "isMenuOpenZindex": {
+      "type": "string"
+    },
+    "isMenuOpenLineH": {
+      "type": "string"
+    },
+    "setIsMenuOpenMargin": {
+      "type": "string"
+    },
+    "setIsMenuOpenFontSize": {
+      "type": "string"
+    },
+    "setIsMenuOpenColor": {
+      "type": "string"
+    }
+  }
+}

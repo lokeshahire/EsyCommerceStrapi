@@ -1,0 +1,64 @@
+{
+  "kind": "collectionType",
+  "collectionName": "case_studies",
+  "info": {
+    "singularName": "case-study",
+    "pluralName": "case-studies",
+    "displayName": "CaseTop",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "CaseStudiesTitle": {
+      "type": "string",
+      "default": "Success Stories & Results"
+    },
+    "CaseStudiesTitleColor": {
+      "type": "string"
+    },
+    "CaseStudiesTitleFontSize": {
+      "type": "string"
+    },
+    "CaseStudiesHeadColor": {
+      "type": "string"
+    },
+    "CaseStudiesHeadFontSize": {
+      "type": "string"
+    },
+    "CaseStudiesTextColor": {
+      "type": "string"
+    },
+    "CaseStudiesTextFontSize": {
+      "type": "string"
+    },
+    "CaseStudiesHead": {
+      "type": "string"
+    },
+    "CaseStudiesText": {
+      "type": "string"
+    },
+    "CaseStudiesTitleTop": {
+      "type": "string"
+    },
+    "CaseStudiesmaxWidth": {
+      "type": "string"
+    },
+    "CaseStudiesHeadfontWeight": {
+      "type": "string"
+    },
+    "CaseStudiesTextFontWeight": {
+      "type": "string"
+    },
+    "CaseStudiesTextFontSizeMob": {
+      "type": "string"
+    },
+    "CaseStudiesmaxWidthMob": {
+      "type": "string"
+    },
+    "CaseStudiesHeadFontSizeMob": {
+      "type": "string"
+    }
+  }
+}

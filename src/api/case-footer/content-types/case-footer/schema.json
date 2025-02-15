@@ -1,0 +1,126 @@
+{
+  "kind": "collectionType",
+  "collectionName": "case_footers",
+  "info": {
+    "singularName": "case-footer",
+    "pluralName": "case-footers",
+    "displayName": "CaseFooter",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "UpFooter": {
+      "type": "string"
+    },
+    "FooterLogo": {
+      "type": "string"
+    },
+    "FooterLeftText": {
+      "type": "string"
+    },
+    "FooterRight1": {
+      "type": "string"
+    },
+    "FooterRight2": {
+      "type": "string"
+    },
+    "FooterRight3": {
+      "type": "string"
+    },
+    "FooterRight4": {
+      "type": "string"
+    },
+    "FooterLeftSocial1": {
+      "type": "string"
+    },
+    "FooterLeftSocial2": {
+      "type": "string"
+    },
+    "UpFooterFontSize": {
+      "type": "string"
+    },
+    "UpFooterBorder": {
+      "type": "string"
+    },
+    "FooterCopy": {
+      "type": "string"
+    },
+    "FooterPadding": {
+      "type": "string"
+    },
+    "FooterMarginTop": {
+      "type": "string"
+    },
+    "UpFooterColor": {
+      "type": "string"
+    },
+    "UpFooterPadding": {
+      "type": "string"
+    },
+    "UpFooterBorderRadius": {
+      "type": "string"
+    },
+    "FooterBelowMarginTop": {
+      "type": "string"
+    },
+    "FooterLeftWidth": {
+      "type": "string"
+    },
+    "FooterLeftColor": {
+      "type": "string"
+    },
+    "FooterLeftFontsize": {
+      "type": "string"
+    },
+    "FooterLeftMaxWidth": {
+      "type": "string"
+    },
+    "FooterLeftSocialGap": {
+      "type": "string"
+    },
+    "FooterLeftSocialMarginTop": {
+      "type": "string"
+    },
+    "FooterLeftSocial1FontSie": {
+      "type": "string"
+    },
+    "FooterLogoColor": {
+      "type": "string"
+    },
+    "FooterRightWidth": {
+      "type": "string"
+    },
+    "FooterRight2FontSize": {
+      "type": "string"
+    },
+    "FooterRight2Margin": {
+      "type": "string"
+    },
+    "FooterCopyFontSize": {
+      "type": "string"
+    },
+    "FooterCopyMarginTop": {
+      "type": "string"
+    },
+    "FooterCopyBorder": {
+      "type": "string"
+    },
+    "FooterRighttextAlign": {
+      "type": "string"
+    },
+    "FooterLogoFontWeight": {
+      "type": "string"
+    },
+    "FooterCopyWidth": {
+      "type": "string"
+    },
+    "UpFooterPaddingMob": {
+      "type": "string"
+    },
+    "FooterLeftWidthMob": {
+      "type": "string"
+    }
+  }
+}

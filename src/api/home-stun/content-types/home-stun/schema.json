@@ -1,0 +1,60 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_stuns",
+  "info": {
+    "singularName": "home-stun",
+    "pluralName": "home-stuns",
+    "displayName": "HomeStun",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "HomeStunHead": {
+      "type": "string"
+    },
+    "HomeStunHeadColor": {
+      "type": "string"
+    },
+    "HomeStunHeadFontSize": {
+      "type": "string"
+    },
+    "HomeStunHeadFontWeight": {
+      "type": "string"
+    },
+    "HomeStunPara": {
+      "type": "string"
+    },
+    "HomeStunParaColor": {
+      "type": "string"
+    },
+    "HomeStunParaFontSize": {
+      "type": "string"
+    },
+    "HomeStunParaWidth": {
+      "type": "string"
+    },
+    "HomeStunPadding": {
+      "type": "string"
+    },
+    "HomeStunMaxWidth": {
+      "type": "string"
+    },
+    "HomeStunMargin": {
+      "type": "string"
+    },
+    "HomeStunHeadMarginBottom": {
+      "type": "string"
+    },
+    "HomeStunParaLineH": {
+      "type": "string"
+    },
+    "HomeStunParaMarginTop": {
+      "type": "string"
+    },
+    "HomeStunHeadFontSizeMob": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_gets",
+  "info": {
+    "singularName": "home-get",
+    "pluralName": "home-gets",
+    "displayName": "HomeGet",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "HomeGetViewBtn": {
+      "type": "string"
+    },
+    "HomeGetViewBtnBorder": {
+      "type": "string"
+    },
+    "HomeGetViewBtnRadius": {
+      "type": "string"
+    },
+    "HomeGetViewBtnColor": {
+      "type": "string"
+    },
+    "HomeGetViewBtnBgColor": {
+      "type": "string"
+    },
+    "HomeGetHead": {
+      "type": "string"
+    },
+    "HomeGetHeadColor": {
+      "type": "string"
+    },
+    "HomeGetHeadFontSize": {
+      "type": "string"
+    },
+    "HomeGetHeadWeight": {
+      "type": "string"
+    },
+    "HomeGetHeadBook": {
+      "type": "string"
+    },
+    "HomeGetHeadBookColor": {
+      "type": "string"
+    },
+    "HomeGetHeadBookBgColor": {
+      "type": "string"
+    },
+    "HomeGetHeadBookBorder": {
+      "type": "string"
+    },
+    "HomeGetHeadBookRadius": {
+      "type": "string"
+    },
+    "HomeGetHeadAudit": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditColor": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditBgColor": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditRadius": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditBorder": {
+      "type": "string"
+    },
+    "HomeGetViewBtnBorderRadius": {
+      "type": "string"
+    },
+    "HomeGetViewBtnFontSize": {
+      "type": "string"
+    },
+    "HomeGetViewBtnWeight": {
+      "type": "string"
+    },
+    "HomeGetViewBtnPadding": {
+      "type": "string"
+    },
+    "HomeGetViewBtnCursor": {
+      "type": "string"
+    },
+    "HomeGetViewBtnShadow": {
+      "type": "string"
+    },
+    "HomeGetViewBtnOutline": {
+      "type": "string"
+    },
+    "HomeGetViewBtnTran": {
+      "type": "string"
+    },
+    "HomeGetViewBtnMarBtm": {
+      "type": "string"
+    },
+    "HomeGetViewBtnWidth": {
+      "type": "string"
+    },
+    "HomeGetHeadBg": {
+      "type": "string"
+    },
+    "HomeGetHeadPadding": {
+      "type": "string"
+    },
+    "HomeGetHeadMarginTop": {
+      "type": "string"
+    },
+    "HomeGetHeadWidth": {
+      "type": "string"
+    },
+    "HomeGetHeadMarginBtm": {
+      "type": "string"
+    },
+    "HomeGetHeadBookGap": {
+      "type": "string"
+    },
+    "HomeGetHeadBookPadding": {
+      "type": "string"
+    },
+    "HomeGetHeadBookPaddingRight": {
+      "type": "string"
+    },
+    "HomeGetHeadBookBorderRadius": {
+      "type": "string"
+    },
+    "HomeGetHeadBookFontSize": {
+      "type": "string"
+    },
+    "HomeGetHeadBookWeight": {
+      "type": "string"
+    },
+    "HomeGetHeadBookCursor": {
+      "type": "string"
+    },
+    "HomeGetHeadBookInGap": {
+      "type": "string"
+    },
+    "HomeGetHeadBookSpanBgColor": {
+      "type": "string"
+    },
+    "HomeGetHeadBookSpanColor": {
+      "type": "string"
+    },
+    "HomeGetHeadBookSpanWidth": {
+      "type": "string"
+    },
+    "HomeGetHeadBookSpanHeight": {
+      "type": "string"
+    },
+    "HomeGetHeadBookSpanBorderRadius": {
+      "type": "string"
+    },
+    "HomeGetHeadBookSpanFontSize": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditBorderRadius": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditFontSize": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditWeight": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditPadding": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditCursor": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditShadow": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditOutline": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditTran": {
+      "type": "string"
+    },
+    "HomeGetPadding": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditWidthMob": {
+      "type": "string"
+    },
+    "HomeGetHeadBookWidth": {
+      "type": "string"
+    },
+    "HomeGetHeadBookGapMob": {
+      "type": "string"
+    },
+    "HomeGetHeadBookGap1": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditWidth": {
+      "type": "string"
+    },
+    "HomeGetHeadAuditGapMob": {
+      "type": "string"
+    }
+  }
+}

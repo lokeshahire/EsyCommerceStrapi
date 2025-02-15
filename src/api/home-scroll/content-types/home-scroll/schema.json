@@ -1,0 +1,104 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_scrolls",
+  "info": {
+    "singularName": "home-scroll",
+    "pluralName": "home-scrolls",
+    "displayName": "HomeScroll",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "HomeScrollTitle": {
+      "type": "string"
+    },
+    "HomeScrollImg": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "HomeScrollStarNo": {
+      "type": "string"
+    },
+    "HomeScrollPadding": {
+      "type": "string"
+    },
+    "HomeScrollTitleColor": {
+      "type": "string"
+    },
+    "HomeScrollTitleFontSize": {
+      "type": "string"
+    },
+    "HomeScrollTitleFontWeight": {
+      "type": "string"
+    },
+    "HomeScrollStarColor": {
+      "type": "string"
+    },
+    "HomeScrollStarFontSize": {
+      "type": "string"
+    },
+    "HomeScrollGap": {
+      "type": "string"
+    },
+    "HomeScrollBorderColor": {
+      "type": "string"
+    },
+    "HomeScrollImgHeight": {
+      "type": "string"
+    },
+    "HomeScrollImgWidth": {
+      "type": "string"
+    },
+    "HomeScrollImgFilter": {
+      "type": "string"
+    },
+    "HomeScrollMarqueeSpeed": {
+      "type": "string"
+    },
+    "HomeScrollWidth": {
+      "type": "string"
+    },
+    "HomeScrollMarginBottom": {
+      "type": "string"
+    },
+    "HomeScrollBorderTextGlow": {
+      "type": "string"
+    },
+    "HomeScrollBorderColorHeight": {
+      "type": "string"
+    },
+    "HomeScrollBorderColorWidth": {
+      "type": "string"
+    },
+    "HomeScrollBrandMargin": {
+      "type": "string"
+    },
+    "HomeScrollImgObjectFit": {
+      "type": "string"
+    },
+    "HomeScrollBorderHeight": {
+      "type": "string"
+    },
+    "HomeScrollBorderMarginTop": {
+      "type": "string"
+    },
+    "HomeScrollTitleWidthMob": {
+      "type": "string"
+    },
+    "HomeScrollTitleFontSizeMob": {
+      "type": "string"
+    },
+    "HomeScrollStarFontSizeMob": {
+      "type": "string"
+    }
+  }
+}
