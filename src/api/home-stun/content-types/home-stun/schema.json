@@ -12,7 +12,7 @@
   },
   "attributes": {
     "HomeStunHead": {
-      "type": "text"
+      "type": "string"
     },
     "HomeStunHeadColor": {
       "type": "string"
@@ -24,7 +24,7 @@
       "type": "string"
     },
     "HomeStunPara": {
-      "type": "text"
+      "type": "string"
     },
     "HomeStunParaColor": {
       "type": "string"
